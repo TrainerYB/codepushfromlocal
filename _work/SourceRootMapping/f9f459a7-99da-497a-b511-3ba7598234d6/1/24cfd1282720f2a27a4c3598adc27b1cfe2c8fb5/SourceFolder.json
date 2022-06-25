@@ -1,0 +1,26 @@
+﻿{
+  "build_artifactstagingdirectory": "1\\a",
+  "agent_builddirectory": "1",
+  "collectionUrl": "https://dev.azure.com/TwilioPriyaTest/",
+  "definitionName": "PriyaWebApp-CI",
+  "repositoryTrackingInfo": [
+    {
+      "identifier": "__designer_repo",
+      "repositoryType": "Git",
+      "repositoryUrl": "https://TwilioPriyaTest@dev.azure.com/TwilioPriyaTest/priyawebapp1/_git/priyawebapp1",
+      "sourcesDirectory": "1\\s\\priyawebapp1"
+    }
+  ],
+  "fileFormatVersion": 3,
+  "lastRunOn": "04/27/2022 23:22:50 +05:30",
+  "repositoryType": "Git",
+  "lastMaintenanceAttemptedOn": "",
+  "lastMaintenanceCompletedOn": "",
+  "build_sourcesdirectory": "1\\s",
+  "common_testresultsdirectory": "1\\TestResults",
+  "collectionId": "f9f459a7-99da-497a-b511-3ba7598234d6",
+  "definitionId": "1",
+  "hashKey": "24cfd1282720f2a27a4c3598adc27b1cfe2c8fb5",
+  "repositoryUrl": "https://TwilioPriyaTest@dev.azure.com/TwilioPriyaTest/priyawebapp1/_git/priyawebapp1",
+  "system": "build"
+}
